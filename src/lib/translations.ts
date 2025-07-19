@@ -1,0 +1,120 @@
+export const translations = {
+  en: {
+    header: {
+      home: 'Home',
+      about: 'About',
+      team: 'Team',
+      help: 'Help',
+      toggleLanguage: 'ગુજરાતીમાં વાંચો',
+    },
+    footer: {
+      copyright: '© {year} Shri Navi Mumbai Bhanushali Charitable Trust. All Rights Reserved.',
+      facebook: 'Facebook',
+      instagram: 'Instagram',
+      whatsapp: 'WhatsApp',
+      socialTitle: 'Follow Us'
+    },
+    home: {
+      heroTitle: 'Shree Navi Mumbai Bhanushali Charitable Trust',
+      heroSubtitle: 'Community, Culture, and Compassion. We are dedicated to preserving our culture and empowering our community through support, education, and unity.',
+      learnMore: 'Learn More',
+      reachUs: 'Reach Us',
+      upcomingEvents: 'Upcoming Events',
+      eventsSubtitle: 'Join us for our upcoming events. Connect with the community, celebrate our culture, and grow together.',
+    },
+    eventCard: {
+      registrationDeadline: 'Registration Deadline',
+      registerNow: 'Register Now',
+      eventStarted: 'The event has started!',
+      days: 'Days',
+      hours: 'Hours',
+      minutes: 'Minutes',
+      seconds: 'Seconds',
+    },
+    about: {
+      title: 'About SNMBCT',
+      subtitle: 'Preserving culture, empowering community.',
+      body1: 'Shri Navi Mumbai Bhanushali Charitable Trust (SNMBCT) is a dedicated community-based organization formed to serve and uplift the Bhanushali community in Navi Mumbai. We aim to preserve our rich cultural heritage while empowering individuals and families through education, support, and unity.',
+      missionTitle: 'Our Mission',
+      missionBody: 'To foster a strong, supportive, and vibrant Bhanushali community in Navi Mumbai by providing resources and opportunities for social welfare, educational advancement, and cultural preservation.',
+      visionTitle: 'Our Vision',
+      visionBody: 'To be a beacon of unity, cultural pride, and socio-economic strength, creating an environment where traditions are cherished and every individual feels a deep sense of belonging and support.',
+    },
+    team: {
+      title: 'Our Family',
+      subtitle: "The dedicated individuals behind SNMBCT's success.",
+      trustees: 'Board of Trustees',
+      committee: 'Committee Members',
+      coCommittee: 'Co-committee Members',
+    },
+    help: {
+      title: 'Our Programs',
+      subtitle: 'Learn more about our core initiatives designed to support and uplift our community.',
+      contact: {
+        contactTitle: 'SNMBCT Helpline',
+        contactSubtitle: 'For any help or query, feel free to reach us.',
+        callNow: 'Call Now',
+        whatsapp: 'WhatsApp',
+      }
+    },
+  },
+  gj: {
+    header: {
+      home: 'ઘર',
+      about: 'વિશે',
+      team: 'ટીમ',
+      help: 'મદદ',
+      toggleLanguage: 'Read in English',
+    },
+    footer: {
+      copyright: '© {year} શ્રી નવી મુંબઈ ભાનુશાલી ચેરીટેબલ ટ્રસ્ટ. સર્વાધિકાર સુરક્ષિત.',
+      facebook: 'ફેસબુક',
+      instagram: 'ઇન્સ્ટાગ્રામ',
+      whatsapp: 'વોટ્સએપ',
+      socialTitle: 'અમને અનુસરો',
+    },
+    home: {
+      heroTitle: 'શ્રી નવી મુંબઈ ભાનુશાલી ચેરીટેબલ ટ્રસ્ટ',
+      heroSubtitle: 'સમુદાય, સંસ્કૃતિ અને કરુણા. અમે અમારી સંસ્કૃતિનું જતન કરવા અને સમર્થન, શિક્ષણ અને એકતા દ્વારા અમારા સમુદાયને સશક્ત બનાવવા માટે સમર્પિત છીએ.',
+      learnMore: 'વધુ શીખો',
+      reachUs: 'અમારો સંપર્ક કરો',
+      upcomingEvents: 'આગામી કાર્યક્રમો',
+      eventsSubtitle: 'અમારા આગામી કાર્યક્રમોમાં જોડાઓ. સમુદાય સાથે જોડાઓ, આપણી સંસ્કૃતિની ઉજવણી કરો અને સાથે મળીને વિકાસ કરો.',
+    },
+    eventCard: {
+      registrationDeadline: 'નોંધણીની અંતિમ તારીખ',
+      registerNow: 'હમણાં નોંધણી કરો',
+      eventStarted: 'કાર્યક્રમ શરૂ થઈ ગયો છે!',
+      days: 'દિવસો',
+      hours: 'કલાકો',
+      minutes: 'મિનિટ',
+      seconds: 'સેકન્ડ',
+    },
+    about: {
+      title: 'SNMBCT વિશે',
+      subtitle: 'સંસ્કૃતિનું જતન, સમુદાયનું સશક્તિકરણ.',
+      body1: 'શ્રી નવી મુંબઈ ભાનુશાલી ચેરીટેબલ ટ્રસ્ટ (SNMBCT) એ નવી મુંબઈમાં ભાનુશાલી સમુદાયની સેવા અને ઉત્થાન માટે રચાયેલી એક સમર્પિત સમુદાય-આધારિત સંસ્થા છે. અમારો ઉદ્દેશ્ય શિક્ષણ, સમર્થન અને એકતા દ્વારા વ્યક્તિઓ અને પરિવારોને સશક્ત બનાવતી વખતે આપણા સમૃદ્ધ સાંસ્કૃતિક વારસાને જાળવી રાખવાનો છે.',
+      missionTitle: 'અમારું મિશન',
+      missionBody: 'નવી મુંબઈમાં સામાજિક કલ્યાણ, શૈક્ષણિક પ્રગતિ અને સાંસ્કૃતિક સંરક્ષણ માટે સંસાધનો અને તકો પૂરી પાડીને એક મજબૂત, સહાયક અને જીવંત ભાનુશાલી સમુદાયને પ્રોત્સાહન આપવું.',
+      visionTitle: 'અમારું વિઝન',
+      visionBody: 'એકતા, સાંસ્કૃતિક ગૌરવ અને સામાજિક-આર્થિક શક્તિનું પ્રતિક બનવું, એવું વાતાવરણ બનાવવું જ્યાં પરંપરાઓનું પાલન થાય અને દરેક વ્યક્તિને ગાઢ સંબંધ અને સમર્થનની અનુભૂતિ થાય.',
+    },
+    team: {
+      title: 'આપણો પરિવાર',
+      subtitle: 'SNMBCT ની સફળતા પાછળના સમર્પિત વ્યક્તિઓ.',
+      trustees: 'ટ્રસ્ટી મંડળ',
+      committee: 'સમિતિના સભ્યો',
+      coCommittee: 'સહ-સમિતિના સભ્યો',
+    },
+    help: {
+      title: 'અમારા કાર્યક્રમો',
+      subtitle: 'અમારા સમુદાયને ટેકો આપવા અને ઉત્થાન આપવા માટે રચાયેલ અમારી મુખ્ય પહેલ વિશે વધુ જાણો.',
+      contact: {
+        contactTitle: 'SNMBCT હેલ્પલાઇન',
+        contactSubtitle: 'કોઈપણ મદદ અથવા પ્રશ્ન માટે, અમારો સંપર્ક કરવા માટે નિઃસંકોચ.',
+        callNow: 'કૉલ કરો',
+        whatsapp: 'વોટ્સએપ',
+      }
+    },
+  },
+};
